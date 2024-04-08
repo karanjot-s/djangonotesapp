@@ -1,0 +1,6 @@
+*.sqlite3
+*.rest
+
+.vscode
+__pycache__
+migrations
